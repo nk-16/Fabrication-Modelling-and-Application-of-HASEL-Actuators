@@ -3,7 +3,7 @@
 * **What is a HASEL actuator ?**
 
 <div align="center">
-<img src="https://github.com/nk-16/Fabrication-Modelling-and-Application-of-HASEL-Actuators/blob/main/Screenshot%202024-07-14%20021546.png" alt="Image 1" width="400"/>
+<img src="https://github.com/nk-16/Fabrication-Modelling-and-Application-of-HASEL-Actuators/blob/main/Screenshot%202024-07-14%20021546.png" alt="Image 1" width="450"/>
 <img src="https://github.com/nk-16/Fabrication-Modelling-and-Application-of-HASEL-Actuators/blob/main/Screenshot%202024-07-14%20021727.png" alt="Image 2" width="250"/>
 </div>
   
@@ -14,7 +14,7 @@ This work was part of my internship at the Robotics Materials Department of Max 
 * **Fabrication of HASEL actuator**
 
 <div align="center">
-<img src="https://github.com/nk-16/Fabrication-Modelling-and-Application-of-HASEL-Actuators/blob/main/WhatsApp%20Image%202024-06-04%20at%207.34.38%20PM.jpeg" alt="Image 1" width="400"/>
+<img src="https://github.com/nk-16/Fabrication-Modelling-and-Application-of-HASEL-Actuators/blob/main/WhatsApp%20Image%202024-06-04%20at%207.34.38%20PM.jpeg" alt="Image 1" width="450"/>
 <img src="https://github.com/nk-16/Fabrication-Modelling-and-Application-of-HASEL-Actuators/blob/main/WhatsApp%20Image%202024-06-07%20at%203.11.32%20PM.jpeg" alt="Image 2" width="250"/>
 </div>
 
@@ -34,7 +34,7 @@ equation of motion, which provided a framework for understanding the dynamics of
 * **Bioinspired design of Dragonfly wing mechanism**
 
 <div align="center">
-<img src="https://github.com/nk-16/Fabrication-Modelling-and-Application-of-HASEL-Actuators/blob/main/Diagrammatic-cross-section-of-insect-flight-muscles-I-Thorax-mechanisms-of-direct.png" alt="Image 1" width="500"/>
+<img src="https://github.com/nk-16/Fabrication-Modelling-and-Application-of-HASEL-Actuators/blob/main/Diagrammatic-cross-section-of-insect-flight-muscles-I-Thorax-mechanisms-of-direct.png" alt="Image 1" width="250"/>
 <img src="https://github.com/nk-16/Fabrication-Modelling-and-Application-of-HASEL-Actuators/blob/main/QN4A9881.JPG" alt="Image 2" width="500"/>
 </div>
 
