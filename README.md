@@ -34,8 +34,8 @@ equation of motion, which provided a framework for understanding the dynamics of
 * **Bioinspired design of Dragonfly wing mechanism**
 
 <div align="center">
-<img src="https://github.com/nk-16/Fabrication-Modelling-and-Application-of-HASEL-Actuators/blob/main/Diagrammatic-cross-section-of-insect-flight-muscles-I-Thorax-mechanisms-of-direct.png" alt="Image 1" width="250"/>
-<img src="https://github.com/nk-16/Fabrication-Modelling-and-Application-of-HASEL-Actuators/blob/main/QN4A9881.JPG" alt="Image 2" width="500"/>
+<img src="https://github.com/nk-16/Fabrication-Modelling-and-Application-of-HASEL-Actuators/blob/main/Diagrammatic-cross-section-of-insect-flight-muscles-I-Thorax-mechanisms-of-direct.png" alt="Image 1" width="300"/>
+<img src="https://github.com/nk-16/Fabrication-Modelling-and-Application-of-HASEL-Actuators/blob/main/QN4A9881.JPG" alt="Image 2" width="450"/>
 </div>
 
 The final stage of the project involved applying the fabricated and modelled HASEL actuators to a specific robotic application. The chosen application was the development of a bio-inspired mechanism designed to
