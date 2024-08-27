@@ -3,8 +3,8 @@
 * **What is a HASEL actuator ?**
 
 <div align="center">
-<img src="https://github.com/nk-16/Fabrication-Modelling-and-Application-of-HASEL-Actuators/blob/main/Screenshot%202024-07-14%20021546.png" alt="Image 1" width="500"/>
-<img src="https://github.com/nk-16/Fabrication-Modelling-and-Application-of-HASEL-Actuators/blob/main/Screenshot%202024-07-14%20021727.png" alt="Image 2" width="500"/>
+<img src="https://github.com/nk-16/Fabrication-Modelling-and-Application-of-HASEL-Actuators/blob/main/Screenshot%202024-07-14%20021546.png" alt="Image 1" width="400"/>
+<img src="https://github.com/nk-16/Fabrication-Modelling-and-Application-of-HASEL-Actuators/blob/main/Screenshot%202024-07-14%20021727.png" alt="Image 2" width="250"/>
 </div>
   
 HASEL stands for Hydraulically Amplified Self-healing Electrostatic actuator. These actuators utilize a combination of electrostatic and hydraulic forces to generate movement, mimicking the behaviour of natural muscles. HASEL actuators are characterized by their ability to produce significant strain and force, self-heal when damaged, and adapt to various applications. HASEL actuators are composed of a dielectric shell filled with a liquid and surrounded by electrodes. When a high voltage is applied, the electrodes generate an electrostatic force, deforming the liquid and causing the actuator to change shape. This deformation mimics the contraction and expansion of biological muscles, allowing the actuator to move. The combination of hydraulic and electrostatic forces enables HASEL actuators to achieve high actuation strains and forces, making them suitable for various soft robotic applications.
@@ -14,8 +14,8 @@ This work was part of my internship at the Robotics Materials Department of Max 
 * **Fabrication of HASEL actuator**
 
 <div align="center">
-<img src="https://github.com/nk-16/Fabrication-Modelling-and-Application-of-HASEL-Actuators/blob/main/WhatsApp%20Image%202024-06-04%20at%207.34.38%20PM.jpeg" alt="Image 1" width="500"/>
-<img src="https://github.com/nk-16/Fabrication-Modelling-and-Application-of-HASEL-Actuators/blob/main/WhatsApp%20Image%202024-06-07%20at%203.11.32%20PM.jpeg" alt="Image 2" width="500"/>
+<img src="https://github.com/nk-16/Fabrication-Modelling-and-Application-of-HASEL-Actuators/blob/main/WhatsApp%20Image%202024-06-04%20at%207.34.38%20PM.jpeg" alt="Image 1" width="400"/>
+<img src="https://github.com/nk-16/Fabrication-Modelling-and-Application-of-HASEL-Actuators/blob/main/WhatsApp%20Image%202024-06-07%20at%203.11.32%20PM.jpeg" alt="Image 2" width="250"/>
 </div>
 
 The fabrication of HASEL actuators involved a series of carefully planned steps, each designed to ensure the production of high-quality actuators suitable for research and application. The process began with heat
