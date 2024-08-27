@@ -1,1 +1,1 @@
-# Fabrication-Modelling-and-Application-of-Soft-Actuators
+# Fabrication-Modelling-and-Application-of-HASEL actuators
